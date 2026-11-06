@@ -1,0 +1,4 @@
+Java es un lenguaje muy usado.
+Con Java se crean aplicaciones de escritorio y Android.
+Aprender Java requiere practicar.
+java es lo mejor que existe
